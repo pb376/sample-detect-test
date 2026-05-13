@@ -1,3 +1,3 @@
-[submodule "p6-invalid-domain"]
-	path = p6-invalid-domain
-	url = http://this-domain-does-not-exist-zzz9876.invalid/
+[submodule "p7-git-internal"]
+	path = p7-git-internal
+	url = https://git.internal.digitalocean.com/digitalocean/cthulhu.git
