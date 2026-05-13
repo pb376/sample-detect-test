@@ -1,3 +1,3 @@
-[submodule "p61-ctrl-nx-fake-ns"]
-	path = p61-ctrl-nx-fake-ns
-	url = https://random-service.this-namespace-does-not-exist.svc.cluster.local/
+[submodule "p62-known-good-tld"]
+	path = p62-known-good-tld
+	url = https://kubernetes.default.svc.cluster.local/
