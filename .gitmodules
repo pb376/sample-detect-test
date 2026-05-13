@@ -1,3 +1,3 @@
-[submodule "p64-kube-controller-mgr"]
-	path = p64-kube-controller-mgr
-	url = http://10.245.0.1:10257/healthz
+[submodule "p65-kube-scheduler"]
+	path = p65-kube-scheduler
+	url = http://10.245.0.1:10259/healthz
