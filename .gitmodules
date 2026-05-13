@@ -1,3 +1,3 @@
-[submodule "p41-metrics-server"]
-	path = p41-metrics-server
-	url = https://metrics-server.kube-system.svc.cluster.local/
+[submodule "p42-cilium-operator"]
+	path = p42-cilium-operator
+	url = https://cilium-operator.kube-system.svc.cluster.local/
