@@ -1,3 +1,3 @@
-[submodule "p54-pod-cidr-mid"]
-	path = p54-pod-cidr-mid
-	url = http://10.244.5.5/
+[submodule "p55-pod-cidr-high"]
+	path = p55-pod-cidr-high
+	url = http://10.244.255.1/
