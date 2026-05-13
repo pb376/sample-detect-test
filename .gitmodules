@@ -1,3 +1,3 @@
-[submodule "p51-kubelet-readonly"]
-	path = p51-kubelet-readonly
-	url = http://10.245.0.1:10255/
+[submodule "p52-etcd"]
+	path = p52-etcd
+	url = http://10.245.0.1:2379/version
