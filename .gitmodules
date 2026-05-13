@@ -1,3 +1,3 @@
-[submodule "p65-kube-scheduler"]
-	path = p65-kube-scheduler
-	url = http://10.245.0.1:10259/healthz
+[submodule "p66-https-altport"]
+	path = p66-https-altport
+	url = https://10.245.0.1:6443/
