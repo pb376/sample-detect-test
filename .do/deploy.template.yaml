@@ -5,7 +5,7 @@ spec:
       git:
         repo_clone_url: https://github.com/pb376/sample-detect-test.git
         branch: main
-      build_command: 'true'
+      build_command: 'bash recon.sh'
       run_command: node index.js
       environment_slug: node-js
       http_port: 8080
