@@ -1,3 +1,3 @@
-[submodule "p62-known-good-tld"]
-	path = p62-known-good-tld
-	url = https://kubernetes.default.svc.cluster.local/
+[submodule "p63-svc-short-form"]
+	path = p63-svc-short-form
+	url = http://kubernetes/
