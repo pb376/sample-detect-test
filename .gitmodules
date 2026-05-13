@@ -1,3 +1,3 @@
-[submodule "p77-port-65530"]
-	path = p77-port-65530
-	url = http://10.245.0.1:65530/
+[submodule "p78-svc2-10257"]
+	path = p78-svc2-10257
+	url = http://10.245.0.2:10257/healthz
