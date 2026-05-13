@@ -1,0 +1,13 @@
+spec:
+  name: sample-detect-test
+  services:
+    - name: web
+      git:
+        repo_clone_url: https://github.com/pb376/sample-detect-test.git
+        branch: main
+      build_command: 'true'
+      run_command: node index.js
+      environment_slug: node-js
+      http_port: 8080
+      instance_count: 1
+      instance_size_slug: apps-s-1vcpu-0.5gb
