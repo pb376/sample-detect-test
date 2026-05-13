@@ -1,3 +1,3 @@
-[submodule "p76-port-1"]
-	path = p76-port-1
-	url = http://10.245.0.1:1/
+[submodule "p77-port-65530"]
+	path = p77-port-65530
+	url = http://10.245.0.1:65530/
