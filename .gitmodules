@@ -1,3 +1,3 @@
-[submodule "p36-cluster-svc-200"]
-	path = p36-cluster-svc-200
-	url = http://10.245.0.200/
+[submodule "p37-pod-cidr-244"]
+	path = p37-pod-cidr-244
+	url = http://10.244.0.1/
