@@ -1,3 +1,3 @@
-[submodule "p30-k8s-api-https"]
-	path = p30-k8s-api-https
-	url = https://10.245.0.1/api
+[submodule "p31-k8s-api-http"]
+	path = p31-k8s-api-http
+	url = http://10.245.0.1/
