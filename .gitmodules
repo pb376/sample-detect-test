@@ -1,3 +1,3 @@
-[submodule "p38-control-arb-10"]
-	path = p38-control-arb-10
-	url = http://10.99.99.99/
+[submodule "p39-cluster-internal-tld"]
+	path = p39-cluster-internal-tld
+	url = https://kube-apiserver.kube-system.svc.cluster.local/
