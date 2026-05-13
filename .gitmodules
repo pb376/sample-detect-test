@@ -1,3 +1,3 @@
-[submodule "p50-kubelet-10250"]
-	path = p50-kubelet-10250
-	url = http://10.245.0.1:10250/
+[submodule "p51-kubelet-readonly"]
+	path = p51-kubelet-readonly
+	url = http://10.245.0.1:10255/
