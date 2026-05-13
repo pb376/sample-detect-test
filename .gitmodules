@@ -1,3 +1,3 @@
-[submodule "p72-kctrl-mgr-root"]
-	path = p72-kctrl-mgr-root
-	url = http://10.245.0.1:10257/
+[submodule "p73-kctrl-mgr-metrics"]
+	path = p73-kctrl-mgr-metrics
+	url = http://10.245.0.1:10257/metrics
