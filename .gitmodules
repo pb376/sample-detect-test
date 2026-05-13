@@ -1,3 +1,3 @@
-[submodule "p60-ctrl-nx-fake"]
-	path = p60-ctrl-nx-fake
-	url = https://this-service-definitely-does-not-exist.kube-system.svc.cluster.local/
+[submodule "p61-ctrl-nx-fake-ns"]
+	path = p61-ctrl-nx-fake-ns
+	url = https://random-service.this-namespace-does-not-exist.svc.cluster.local/
